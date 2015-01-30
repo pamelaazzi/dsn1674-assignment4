@@ -74,6 +74,11 @@ blockquote {
   font-family: times;
 }
 
+cite {
+  font-size: 1.1rem;
+  color: white;
+}
+
 footer {
   text-align: right;
   font-size: .8rem;
@@ -84,10 +89,14 @@ p {
   font-family: arial;
   font-size: 1.2rem;
   color: white;
+  line-height: 1.7rem;
 }
 
 ul {
   list-style-type: lower-roman;
+  font-family: arial;
+  line-height: 1.7rem;
+  font-size: 1.2rem;
 }
 
 figcaption {
@@ -98,6 +107,14 @@ figcaption {
 dt {
   font-weight: bold;
   font-family: Arial;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  margin: 0.5em 0em 0em 0em;
+}
+
+dd {
+  font-size: 1.3rem;
+  line-height: 1.5rem;
 }
 
 nav {
