@@ -1,0 +1,125 @@
+html {
+  background-color: #7b7b7b;
+}
+
+header {
+  background-color: black;
+  padding: 0.1em;
+  margin: 0;
+  }
+
+h1 {
+  font-weight: normal;
+  font-size: 3rem;
+  font-style: normal;
+  font-family: 'Bevan', cursive;
+  line-height: .5;
+  color: #57fbbb;
+  text-align: center;
+  padding: 0em;
+  margin: 0.4em;
+}
+
+h2 {
+  font-family: 'Bevan', cursive;
+  font-size: 1.8rem;
+  color: #57fbbb
+}
+
+nav ol {
+  list-style-type: none;
+  padding: 0em;
+  font-family: arial;
+  font-size: 1.2rem;
+}
+
+nav li {
+  font-weight: normal ;
+  display: inline-block;
+}
+
+.cele {
+  color: white;
+}
+
+.round {
+  color: white;
+}
+
+nav a {
+  color: purple;
+  display: inline-block;
+  padding: 1em 1em;
+  margin: 0.2em;
+  background-color: brown;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  width: 7em 5em;
+}
+
+a:hover {
+  color: white;
+}
+
+blockquote {
+  font-style: italic;
+  line-height: 1.2;
+  font-size: 1.8rem;
+}
+
+.quote {
+  color: white;
+  font-size: 3rem;
+  font-family: times;
+}
+
+footer {
+  text-align: right;
+  font-size: .8rem;
+  color: black;
+}
+
+p {
+  font-family: arial;
+  font-size: 1.2rem;
+  color: white;
+}
+
+ul {
+  list-style-type: lower-roman;
+}
+
+figcaption {
+  font-style: italic;
+  color: white;
+}
+
+dt {
+  font-weight: bold;
+  font-family: Arial;
+}
+
+nav {
+  background-color: dark red;
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+}
+
+figure {
+  border: 2px solid white;
+  border-radius: 7px;
+  padding: .7em;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  text-align: center;
+  font-family: arial;
+}
