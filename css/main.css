@@ -14,7 +14,7 @@ h1 {
   font-style: normal;
   font-family: 'Bevan', cursive;
   line-height: .5;
-  color: #57fbbb;
+  color: #7b7b7b;
   text-align: center;
   padding: 0em;
   margin: 0.4em;
@@ -23,7 +23,7 @@ h1 {
 h2 {
   font-family: 'Bevan', cursive;
   font-size: 1.8rem;
-  color: #57fbbb
+  color: brown;
 }
 
 nav ol {
@@ -65,7 +65,7 @@ a:hover {
 blockquote {
   font-style: italic;
   line-height: 1.2;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
 
 .quote {
