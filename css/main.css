@@ -39,17 +39,17 @@ nav li {
 }
 
 .cele {
-  color: white;
+  color: black;
 }
 
 .round {
-  color: white;
+  color: black;
 }
 
 nav a {
   color: purple;
   display: inline-block;
-  padding: 1em 1em;
+  padding: 1em;
   margin: 0.2em;
   background-color: brown;
   color: white;
@@ -107,14 +107,15 @@ figcaption {
 dt {
   font-weight: bold;
   font-family: Arial;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   line-height: 2rem;
   margin: 0.5em 0em 0em 0em;
 }
 
 dd {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   line-height: 1.5rem;
+  font-family: arial;
 }
 
 nav {
@@ -139,4 +140,27 @@ img {
 figcaption {
   text-align: center;
   font-family: arial;
+}
+
+.src {
+  background-color: black;
+  margin:0em;
+  padding: 0em;
+  font-family: arial;
+}
+
+footer {
+  background-color: black;
+  text-align: left;
+  padding: 0em 1em;
+  margin: 0 0.5;
+}
+
+.wiki {
+  font-family: arial;
+  color: white;
+  font-size: 1.1rem;
+  text-decoration: underline;
+  margin: 0;
+  padding: 0;
 }
